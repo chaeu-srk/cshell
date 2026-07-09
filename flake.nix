@@ -50,7 +50,7 @@
 
     in
     {
-      packges.${system}.default = cshell;
+      packages.${system}.default = cshell;
       apps.${system}.default = {
         type = "app";
         program = "${cshell}/bin/cshell";
