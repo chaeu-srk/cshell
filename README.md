@@ -18,6 +18,11 @@ The config is very wip so if you want to use it for yourself you have to change
 things yourself. Alot of things are hardcoded, so if people like this and want to
 use it I'll spend some time to make it more portable.
 
+## AI usage & code references
+I wrote most of the code myself except for like 1 or 2 functions but I did use it to
+ask questions about qml/quickshell. I also spent alot of time reading code in 
+[caelestia shell](https://github.com/caelestia-dots/shell) to learn how they made certain things.
+
 ## Dependencies
 
 - [m3shapes](https://github.com/soramanew/m3shapes)
