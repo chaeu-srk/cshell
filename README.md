@@ -29,5 +29,5 @@ Nix users:
 The shell is avaliable as a flake
 
 ```sh
-$ nix run gitbub:chaeu-srk/cshell
+$ nix run github:chaeu-srk/cshell
 ```
